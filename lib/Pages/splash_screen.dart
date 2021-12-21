@@ -50,9 +50,9 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset("images/logo.png"),
-            const Text("DesktopApp", style: TextStyle(fontSize: 15,
-                fontWeight: FontWeight.bold),
+            Image.asset("images/logo1.jpeg"),
+            const Text("تسهيل ـ جلب الايادي العاملة", style: TextStyle(fontSize: 15,
+                fontWeight: FontWeight.bold,fontFamily: 'Cairo'),
             ),
           ],
         ),
