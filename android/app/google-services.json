@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "728888626157",
+    "project_id": "desktopapp-57f39",
+    "storage_bucket": "desktopapp-57f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728888626157:android:b5ec93fe31d05af1d375e4",
+        "android_client_info": {
+          "package_name": "com.ahmed.desktop_vendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728888626157-gi4o8vbqk33aqhsg5elhp90sve6qado5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMjTbFE12NsGWFv3e671_9ZpqWobP3-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728888626157-gi4o8vbqk33aqhsg5elhp90sve6qado5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728888626157-0s8lrppo84irrjpetabfsv4hd90450db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahmed.desktopapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728888626157:android:bc28b796b493f839d375e4",
+        "android_client_info": {
+          "package_name": "com.ahmed.desktopapp.desktop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728888626157-tqjoddpoii460ogqsv62m805c57fb0nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed.desktopapp.desktop_app",
+            "certificate_hash": "0c4c4c3fe585eb86667fb1ed2eed06ef7ca4c85a"
+          }
+        },
+        {
+          "client_id": "728888626157-gi4o8vbqk33aqhsg5elhp90sve6qado5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMjTbFE12NsGWFv3e671_9ZpqWobP3-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728888626157-gi4o8vbqk33aqhsg5elhp90sve6qado5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728888626157-0s8lrppo84irrjpetabfsv4hd90450db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahmed.desktopapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
