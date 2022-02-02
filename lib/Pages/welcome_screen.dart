@@ -9,6 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../constants.dart';
+import 'logging_screen.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({Key? key}) : super(key: key);
@@ -58,9 +59,12 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                       setState(() {
                         locationData.loading=false;
                       });
-                      locationData.getCurrentPosition().then((value){
+                      locationData.getCurrentPosition().then((value)
+                      {
                         Navigator.pushReplacementNamed(context, MapScreen.id);
                       });
+                    } else{
+                      Navigator.pushReplacementNamed(context, LoggingScreen.id);
                     }
                   },
                       color: Colors.green,

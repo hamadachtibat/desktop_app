@@ -57,10 +57,10 @@
 	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
 	<dict>
 		<key>YourPurposeKey</key>
-		<string>to get the location of user to delivre product</string>
+		<string>to delivre the best service for you</string>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>to get the location of user for  easy shipping</string>
+	<string> to display nearby desktop services </string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
