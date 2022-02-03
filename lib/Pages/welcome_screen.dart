@@ -75,6 +75,11 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                         'Cairo' : 'Nunito'
 
                       ),)),
+                  TextButton(onPressed:
+                  (){
+                    Navigator.pushReplacementNamed(context, LoggingScreen.id);
+                  },
+                      child:Text("SKIP")),
                   const SizedBox(height: 100,),
 
                 ],
